@@ -1,1 +1,0 @@
-# WebGoat-Challenge
